@@ -18,6 +18,7 @@ This folder contains the ROS bag file of the imu data published as ros topic imu
 ## Results
 
 Hard and Soft Iron Calibration:
+
 Circle Walking Data:
 
 ![Circle Walking Data](analysis/output/Figure_1.png)
